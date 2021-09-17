@@ -1,5 +1,5 @@
-# react-async-autocomplete-project
-Allows users to search for movie details utilizing the OMDb API, features include:
+# react-autocomplete
+Allows users to search for movie details utilizing the OMDb API, async search component features include:
 
 1. Caching
 2. Debouncing
